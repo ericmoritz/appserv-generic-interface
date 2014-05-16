@@ -4,7 +4,7 @@
 This documents describes the generic system level interface that all application services need to be deployed onto complient systems.
 
 Inspiration was taken from [The Twelve-Factor App](http://12factor.net/) to provide a clean contract between the system
-and application services.  This document assumes that services are twelve-factor apps and comply with the tweleve-factor design constraints.
+and application services.  This document assumes that services are twelve-factor apps and comply with the twelve-factor app design constraints.
 
 ## Definitions
 
