@@ -19,7 +19,7 @@ and application services.
 The high level deployment pipeline is as follows
 
 1. developer commits to the mainline branch
-2. deployer instanciates a new build container
+2. deployer instantiates a new build container
 3. code is deployed to container
 4. `make install` ran in container
 5. deployer creates deployable image of container
